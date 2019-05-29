@@ -29,5 +29,9 @@ public class GetPayStatus {
 			e.printStackTrace();
 		}
 		
+		/**
+		 * haha 嘻嘻  我就是来闹着玩的的
+		 */
+		
 	}
 }
